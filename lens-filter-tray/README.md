@@ -20,5 +20,5 @@ Bento3D-generated trays.
 
 ## Links
 
-- Lens Filter Tray 1: [TinkerCad](https://www.tinkercad.com/things/4zfiXEIU168-lens-filter-tray-1)
-- Lens Filter Tray 2: [TinkerCad](https://www.tinkercad.com/things/8GZ2WARRbwp-lens-filter-tray-2)
+- Lens Filter Tray 1: [Tinkercad](https://www.tinkercad.com/things/4zfiXEIU168-lens-filter-tray-1)
+- Lens Filter Tray 2: [Tinkercad](https://www.tinkercad.com/things/8GZ2WARRbwp-lens-filter-tray-2)

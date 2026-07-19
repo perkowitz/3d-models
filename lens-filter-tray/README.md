@@ -14,7 +14,8 @@ using the 2nd tray with the larger row. Larger filters will get in the way
 of stacking the trays or adding a lid. Of course, a taller version of the tray
 could be generated with Bento3D and modified.
 
-I've included a lid design, though one can also be generated with Bento3D,
+I've included a lid design, This one is 10mm high, but similar lids can be made a greater
+heights to give more space in the tray. A lid can also be generated with Bento3D,
 as a 160x160x5mm tray with no dividers. I've included copies of the original
 Bento3D-generated trays.
 
